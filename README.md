@@ -1,12 +1,5 @@
 ### Welcome to the R Programming Lab for Programming Lab - II! This repository contains solutions and explanations for exercises, designed to help you learn the basics and intermediate concepts in R programming.
 
-### Table of Contents
-- [Welcome to the R Programming Lab for Programming Lab - II. This repository contains solutions and explanations for exercises designed to help you learn and practice essential concepts in R programming. Each exercise focuses on a different aspect of data analysis and programming in R, progressively covering foundational topics and moving towards intermediate statistical techniques.](#introduction)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Exercises](#exercises)
-
-
 ### Exercises
 - [Exercise 1 - Getting Started With R](https://github.com/Code-With-Aagam/R-Programming-LAB/tree/main/Exercise%201)
 - [Exercise 2 - Understanding Data Types in R](https://github.com/Code-With-Aagam/R-Programming-LAB/tree/main/Exercise%202)
