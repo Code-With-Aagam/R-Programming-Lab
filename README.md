@@ -1,4 +1,4 @@
-# Welcome to the R Programming Lab for [Programming Lab - II]! This repository contains solutions and explanations for exercises, designed to help you learn the basics and intermediate concepts in R programming.
+### Welcome to the R Programming Lab for [Programming Lab - II]! This repository contains solutions and explanations for exercises, designed to help you learn the basics and intermediate concepts in R programming.
 
 Table of Contents
 Introduction
