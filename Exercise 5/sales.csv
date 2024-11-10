@@ -1,0 +1,10 @@
+"Product_id","Product_Name","Category","Units_Sold","Revenue","Date"
+1,"Milk","Essentials",15,150,2003
+2,"Bread","Essentials",20,100,2003
+3,"Eggs","Essentials",10,100,2004
+4,"Potato","Vegetables",22,440,2001
+5,"Carrot","Vegetables",18,108,1947
+6,"Beans","Vegetables",17,51,1987
+7,"Palm oil","Oils",10,1000,2024
+8,"Olive oil","Oils",6,600,2001
+9,"Chicken","Meat",1,50,2015

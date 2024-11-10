@@ -1,0 +1,11 @@
+"Student_ID","Name","Age","Gender","Major","GPA","Passed"
+1,"Aagam",22,"Male","Computer Science",4.8,TRUE
+2,"John",23,"Male","Biology",3,TRUE
+3,"Emily",20,"Female","Maths",3.7,TRUE
+4,"Yash",19,"Male","Physics",4,TRUE
+5,"Vinay",22,"Male","Chemistry",2.9,FALSE
+6,"Vic",26,"Female","Social Sciences",3.7,TRUE
+7,"Sam",17,"Female","Economics",4.1,TRUE
+8,"Joe",20,"Male","Data Science",2.7,FALSE
+9,"Atul",22,"Male","Geology",4.1,TRUE
+10,"Priyank",23,"Male","Biotech",3.4,TRUE

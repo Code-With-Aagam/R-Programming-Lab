@@ -1,0 +1,10 @@
+"Product_id....c.1..2..3..4..5..6..7..8..9.","Product_Name....c..Milk....Bread....Eggs....Potato....Carrot...","Category....c..Essentials....Essentials....Essentials....Vegetables...","Price....c.10..5..10..20..6..3..100..100..50."
+1,"Milk","Essentials",10
+2,"Bread","Essentials",5
+3,"Eggs","Essentials",10
+4,"Potato","Vegetables",20
+5,"Carrot","Vegetables",6
+6,"Beans","Vegetables",3
+7,"Palm oil","Oils",100
+8,"Olive oil","Oils",100
+9,"Chicken","Meat",50

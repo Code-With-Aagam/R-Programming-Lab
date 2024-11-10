@@ -1,0 +1,10 @@
+"Product_id....c.1..2..3..4..5..6..7..8..9.","Product_Name....c..Milk....Bread....Eggs....Potato....Carrot...","Category....c..Essentials....Essentials....Essentials....Vegetables...","Units_Sold....c.15..20..10..22..18..17..10..6..1.","Revenue....c.150..100..100..440..108..51..1000..600..50.","Date....c.2003..2003..2004..2001..1947..1987..2024..2001..2015."
+1,"Milk","Essentials",15,150,2003
+2,"Bread","Essentials",20,100,2003
+3,"Eggs","Essentials",10,100,2004
+4,"Potato","Vegetables",22,440,2001
+5,"Carrot","Vegetables",18,108,1947
+6,"Beans","Vegetables",17,51,1987
+7,"Palm oil","Oils",10,1000,2024
+8,"Olive oil","Oils",6,600,2001
+9,"Chicken","Meat",1,50,2015
