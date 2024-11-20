@@ -15,7 +15,7 @@ if (F_test$p.value > 0.05) {
 # Report :
 
 # We fail to reject the null hypothesis because the p-value > 0.05
-# meaning there's no significant evidence to suggest that the variances of the two population are different.
+# meaning there's no significant evidence to suggest that the variances of the two populations are different.
 
 # Problem 1:
 
