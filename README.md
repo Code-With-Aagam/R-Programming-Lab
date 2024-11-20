@@ -11,3 +11,4 @@
 - [Exercise 9 - Empirical and Theoretical Analysis of Probability Distributions in R](https://github.com/Code-With-Aagam/R-Programming-LAB/tree/main/Exercise%209)
 - [Exercise 10 - Hands-On Statistical Testing: T-tests, F-tests, and Data Analysis in R](https://github.com/Code-With-Aagam/R-Programming-LAB/tree/main/Exercise%2010)
 - [Exercise 11 - Comparative Analysis of Group Means and Variances Using R](https://github.com/Code-With-Aagam/R-Programming-LAB/tree/main/Exercise%2011)
+- [Exercise 12 - Statistical Hypothesis Tests Analysis in R](https://github.com/Code-With-Aagam/R-Programming-Lab/tree/main/Assignment%202)
